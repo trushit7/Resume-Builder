@@ -1,0 +1,14 @@
+.template-parent-1 {
+  color: gray !important;
+  padding: 50px;
+}
+
+.template-parent-1 h1 {
+  font-style: 50px;
+}
+
+.template-parent-1 p {
+  padding-top: 0 !important;
+  margin-top: 2px !important;
+  margin-bottom: 0 !important;
+}

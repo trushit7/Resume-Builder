@@ -1,0 +1,11 @@
+.layout {
+  height: 100vh;
+}
+
+.header {
+  height: 10%;
+}
+
+.content {
+  height: 80%;
+}
